@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gangesh Gunjan Jha</h1>
+<h1 align="center">Hi What's Up👋, I'm Gangesh Gunjan Jha</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujha777&label=Profile%20views&color=0e75b6&style=flat" alt="ujha777" /> </p>
@@ -19,9 +19,11 @@
 
 - ⚡ Fun fact **Crazy for Cricket and Adventure related movies**
 
-<div align="right">
-  <img height="200" src="https://assets.materialup.com/uploads/4d9cbca5-a4b6-4d3b-b1c2-9a38db38ac78/preview.gif"  />
+<div align="center">
+  <img height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 </div>
+
+###
 
 ###
 
