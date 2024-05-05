@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujha777&label=Profile%20views&color=0e75b6&style=flat" alt="ujha777" /> </p>
 
-- 🔭 I’m currently working on **Greenway Health**
+- 🔭 Overall 5.10+ years of experience in IT industry. I’m currently working in **Greenway Health Company** as a SDET
 
 - 🌱 I’m currently learning **Rest Assured API Automation,Cypress**
 
