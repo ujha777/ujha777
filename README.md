@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujha777&label=Profile%20views&color=0e75b6&style=flat" alt="ujha777" /> </p>
 
-- 🔭 Overall 5.10+ years of experience in IT industry. I’m currently working in **Greenway Health Company** as a SDET
+- 🔭 Overall 6+ years of experience in IT industry. I’m currently working in **Greenway Health Company** as a SDET
 
-- 🌱 I’m currently learning **Rest Assured API Automation,Cypress**
+- 🌱 I’m currently learning **Cypress**
 
 - 👯 I’m looking to collaborate with **company's having automation project**
 
