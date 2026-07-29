@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujha777&label=Profile%20views&color=0e75b6&style=flat" alt="ujha777" /> </p>
 
-- 🔭 Overall 8+ years of experience in IT industry. I’m currently working in **Greenway Health Company** as a SDET
+- 🔭 Overall 8+ years of experience in IT industry. I’m actively looking for a job as an SDET role.
 
 - 🌱 I’m currently learning **Cypress**
 
